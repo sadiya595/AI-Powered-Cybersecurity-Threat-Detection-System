@@ -1,5 +1,6 @@
-streamlit 
-pandas 
-numpy 
+streamlit
+pandas
+numpy
 groq
 python-dotenv
+reportlab
